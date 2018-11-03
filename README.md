@@ -2,6 +2,10 @@
 
 This is a meeting planner application, where a user can see his/her meetings in calendar or 24-hour timeline format and an Admin can create/delete/update a meeting of any user he/she wants.
 
+### Dummy Credentials
+<b>Email</b> : dummy<br>
+<b>Password</b> : password
+
 [Click here](http://planner.sharansingh.xyz) to check the app.
 
 ### Screenshot
