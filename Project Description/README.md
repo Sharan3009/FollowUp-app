@@ -26,6 +26,7 @@ Socket.IO Events Documentation: http://planner.sharansingh.xyz/eventdoc
     - You will receive a mail with an activation link. You click that link, your account will be activated and you will be able to access the account.
   - **Login**
     - If you already have an account, fill the login form at the home page and click the "Login" button
+    - You can login using your email or username which ever you feel easy and remember.
     - Once logged in, you will be taken to the calendar page.
     - If you forgot your password, there is a link in the login form to go to the "Forgot Password" page.
     - In the "Forgot Password" page, submit your username. A password reset link will be sent to your email. You need to go that link to create new password. Then login.
