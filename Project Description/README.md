@@ -11,8 +11,8 @@ Socket.IO Events Documentation: http://planner.sharansingh.xyz/eventdoc
 #### Home Page
 ![](../screenshots/home.png)
 
-#### Calendar View:
-![](../screenshots/calendar.png)
+#### Meeting View:
+![](../screenshots/meeting.png)
 
 ### Usage
 
