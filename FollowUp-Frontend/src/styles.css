@@ -1,0 +1,22 @@
+.background-doodle {
+    background-image: url("./assets/background.jpg");
+    background-repeat: no-repeat;
+    min-height:100vh;
+    width:100vw;
+    padding:0;
+}
+
+#logo{
+    font-weight: bolder;
+    font-size: 4em;
+}
+/* .container, .container-full, .container-fluid{
+    word-break:break-all;
+} */
+
+.link{
+    cursor: pointer;
+}
+.link:hover {
+    text-decoration: underline;
+}
